@@ -1,6 +1,6 @@
 aaaa
 bbb dkdkd
-bbb &&&
+bbb
 ccc ddd
 
 dddq
