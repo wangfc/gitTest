@@ -1,7 +1,13 @@
 aaaa
 bbb dkdkd
 bbb
+<<<<<<< HEAD
 ccc ddd
 
 dddq
 
+=======
+ccc  dev
+aaa
+dddq
+>>>>>>> dev
